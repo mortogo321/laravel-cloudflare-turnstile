@@ -1,5 +1,10 @@
 # Laravel Cloudflare Turnstile
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/mortogo321/laravel-cloudflare-turnstile.svg?style=flat-square)](https://packagist.org/packages/mortogo321/laravel-cloudflare-turnstile)
+[![Total Downloads](https://img.shields.io/packagist/dt/mortogo321/laravel-cloudflare-turnstile.svg?style=flat-square)](https://packagist.org/packages/mortogo321/laravel-cloudflare-turnstile)
+[![License](https://img.shields.io/packagist/l/mortogo321/laravel-cloudflare-turnstile.svg?style=flat-square)](https://packagist.org/packages/mortogo321/laravel-cloudflare-turnstile)
+[![PHP Version](https://img.shields.io/packagist/php-v/mortogo321/laravel-cloudflare-turnstile.svg?style=flat-square)](https://packagist.org/packages/mortogo321/laravel-cloudflare-turnstile)
+
 A Laravel wrapper package for Cloudflare Turnstile with invisible mode by default, automatic submit button disabling until verification is complete, and refresh button on failure.
 
 ## Features
